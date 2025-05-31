@@ -3,7 +3,10 @@
 ## 项目简介
 
 本项目是一个基于深度学习的中文新闻标题文本分类系统，旨在自动识别新闻标题所属的类别。项目使用RoBERTa预训练模型作为基础架构，通过微调实现14个新闻类别的精确分类。
-赛题链接：https://aistudio.baidu.com/competition/detail/809/0/task-definition
+
+赛题链接：https://aistudio.baidu.com/competition/detail/809/0/task-definition。
+
+目前项目最高的测试准确率：90.08601
 
 ## 环境要求
 
